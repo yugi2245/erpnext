@@ -268,7 +268,7 @@ jobs:
 
   configure:
     enabled: true
-    fixVolume: true
+    fixVolume: false
     backoffLimit: 0
     resources: {}
     nodeSelector: {}
