@@ -10,7 +10,7 @@ dbRootPassword: "Du4Y0G4iBHfU0rrgNHDJ"
 dbRds: true
 
 image:
-  repository: 582888538834.dkr.ecr.ap-south-2.amazonaws.com/frappe
+  repository: 582888538834.dkr.ecr.ap-south-2.amazonaws.com/stanchrepo
   tag: latest
   pullPolicy: Always
 
